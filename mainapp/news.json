@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Python",
+    "preview": "Python is a programming language that lets you work more quickly and integrate your systems more effectively."
+  },
+    {
+    "title": "Django",
+    "preview": "Django is a free and open-source, Python-based web framework that follows the model–template–views (MTV) architectural pattern."
+  },
+    {
+    "title": "GitHab",
+    "preview": "GitHub, is an Internet hosting service for software development and version control using Git."
+  },
+    {
+    "title": "PyCharm",
+    "preview": "PyCharm - the Python IDE for Professional Developers."
+  }
+]
