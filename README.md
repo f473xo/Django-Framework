@@ -1,3 +1,3 @@
-# Проект BraniacLMS
+#  Проект BraniacLMS
 
-# Учебный проект на Django
+Учебный проект на Django
